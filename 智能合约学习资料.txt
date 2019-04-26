@@ -1,0 +1,20 @@
+﻿国内区块链链漏洞分析的文章
+https://paper.seebug.org/category/blockchain/
+http://rickgray.me/2018/05/17/ethereum-smart-contracts-vulnerabilities-review/   
+
+
+dawsp10 官网:
+http://www.dasp.co/
+以太坊漏洞练习地址：
+https://ethernaut.zeppelin.solutions
+
+eth开发测试环境：
+http://remix.ethereum.org/
+
+以太坊区块浏览器：
+http://etherscan.io
+
+github安全资料：
+https://github.com/trailofbits/awesome-ethereum-security#tools
+
+以太坊编程语言：solidity
