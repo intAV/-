@@ -37,9 +37,9 @@ def myPrint(content):
 
 
 def sendMail(context,title):
-    _user = "cmdshell2@163.com"
-    _pwd  = "5s9z6ws3su9r3"
-    _to   = "1192769569@qq.com"
+    _user = "@163.com"
+    _pwd  = ""
+    _to   = "@qq.com"
 
     msg = MIMEText(context)
     msg["Subject"] = title
